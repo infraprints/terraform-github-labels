@@ -1,0 +1,14 @@
+---
+name: GitHub Issue Labels Terraform module
+slug: issue-labels
+namespace: github
+project: infraprints
+description: Provision a set of issue labels for a GitHub repository.
+license:
+  name: MIT
+tags:
+  - terraform
+  - terraform-module
+  - github
+  - issue-labels
+  - issue-management
